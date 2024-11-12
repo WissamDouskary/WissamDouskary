@@ -6,7 +6,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=WissamDouskary&theme=radical)
 
 
-![Wakatime](https://wakatime.com/badge/user/username.svg)
+![Recent GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=WissamDouskary&theme=github)
 
 
 
