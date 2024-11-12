@@ -6,6 +6,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=WissamDouskary&theme=radical)
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WissamDouskary&theme=radical)
 
 
 
