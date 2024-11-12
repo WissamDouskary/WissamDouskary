@@ -11,7 +11,7 @@ These stats give a snapshot of my GitHub activity, including my contributions an
 
 These are the languages I use most frequently in my repositories.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WissamDouskary&langs_count=10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hughsie&langs_count=10&layout=compact&theme=radical)
 
 This shows my consistent activity and contribution streak on GitHub.
 
