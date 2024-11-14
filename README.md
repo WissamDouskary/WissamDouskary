@@ -1,7 +1,10 @@
 Hi there 👋, I'm Wissam Douskary
-I'm a passionate Web Developer with a keen interest in front-end development, UI/UX design, and responsive web applications. I love to create dynamic, interactive websites using HTML, CSS, JavaScript, and modern frameworks like React. I believe in clean, user-friendly designs, and always strive to improve my skills by learning and experimenting with new technologies.
 
-Feel free to check out my professional journey and connect with me on LinkedIn.
+I’m a passionate Full Stack Web & Mobile Developer with expertise in both front-end and back-end technologies, as well as mobile app development. I enjoy building responsive, dynamic, and scalable applications that work seamlessly across both web and mobile platforms. Whether it's designing intuitive user interfaces, implementing robust back-end logic, or developing cross-platform mobile apps, I thrive on creating complete, end-to-end solutions.
+
+I work with technologies like HTML, CSS, JavaScript, and frameworks like React.js for web development, while also using React Native and Flutter for mobile apps. I’m dedicated to building clean, high-performance, and user-friendly experiences, and I’m always exploring new tools and techniques to push my skills forward.
+
+Feel free to check out my portfolio and connect with me on LinkedIn to learn more about my projects and professional journey!
 
 🚀 Some stats about me:
 
