@@ -7,7 +7,7 @@ Feel free to check out my professional journey and connect with me on LinkedIn.
 
 These stats give a snapshot of my GitHub activity, including my contributions and projects.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WissamDouskary&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fanquake&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 These are the languages I use most frequently in my repositories.
 
