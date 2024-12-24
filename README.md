@@ -22,13 +22,13 @@ This shows my consistent activity and contribution streak on GitHub.
 
 This graph represents my recent activity on GitHub — it shows my commits, pull requests, and issue interactions.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedHamouch&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WissamDouskary&theme=radical)
 
 🏆 GitHub Trophies
 
 These trophies showcase some of my achievements in terms of contributions, pull requests, and repositories.
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MohamedHamouch&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=WissamDouskary&theme=radical)
 
 💻 Connect with me:
 LinkedIn
