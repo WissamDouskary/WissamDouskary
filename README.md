@@ -28,7 +28,7 @@ This graph represents my recent activity on GitHub — it shows my commits, pull
 
 These trophies showcase some of my achievements in terms of contributions, pull requests, and repositories.
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=WissamDouskary&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MohamedHamouch&theme=radical)
 
 💻 Connect with me:
 LinkedIn
