@@ -1,12 +1,11 @@
 # Hi there 👋, I'm Wissam Douskary
 
-I’m a passionate Full Stack Web & Mobile Developer with expertise in both front-end and back-end technologies, as well as mobile app development. I enjoy building responsive, dynamic, and scalable applications.
+I’m a passionate Full Stack Web Developer with expertise in both front-end and back-end technologies. I enjoy building responsive, dynamic, and scalable applications.
 
 ## Technologies I Use
-- **Web Development**: HTML, CSS, JavaScript, React.js
-- **Mobile Development**: React Native, Flutter
-- **Backend Development**: Node.js, Express, MongoDB, SQL
-- **Others**: Git, Docker, CI/CD
+- **FRONT END Development**: HTML, CSS, JavaScript..
+- **Backend END Development**: SQL, PHP, PHPMYADMIN..
+- **Others**: Git, CI/CD, Jira, GitHub Planing.. 
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WissamDouskary&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
