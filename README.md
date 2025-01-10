@@ -21,7 +21,7 @@ I’m a passionate Full Stack Web & Mobile Developer with expertise in both fron
 ![Trophies](https://github-profile-trophy.vercel.app/?username=WissamDouskary&theme=radical)
 
 ## 💬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/wissamdouskary)
+- [LinkedIn]([https://www.linkedin.com/in/wissamdouskary](https://www.linkedin.com/in/wissam-douskary-a320bb334/))
 - [GitHub](https://github.com/WissamDouskary)
 
 ## Explanation of Each Section
