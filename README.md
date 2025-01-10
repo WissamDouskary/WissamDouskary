@@ -22,7 +22,7 @@ This shows my consistent activity and contribution streak on GitHub.
 
 This graph represents my recent activity on GitHub — it shows my commits, pull requests, and issue interactions.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WissamDouskary&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 🏆 GitHub Trophies
 
