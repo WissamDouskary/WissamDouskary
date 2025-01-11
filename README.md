@@ -5,7 +5,15 @@ I’m a passionate Full Stack Web Developer with expertise in both front-end and
 ## Technologies I Use
 - **FRONT END Development**: HTML, CSS, JavaScript..
 - **Backend END Development**: SQL, PHP, PHPMYADMIN..
-- **Others**: Git, CI/CD, Jira, GitHub Planing.. 
+- **Others**: Git, CI/CD, Jira, GitHub Planing..
+
+## 👌 Languages 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=WissamDouskary&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
