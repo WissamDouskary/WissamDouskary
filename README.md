@@ -19,6 +19,7 @@ I’m a passionate Full Stack Web Developer with expertise in both front-end and
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=WissamDouskary&theme=radical)
 
+[![Skyline](https://skyline.github.com/WissamDouskary/2024)](https://skyline.github.com/WissamDouskary/2024)
 
 ## 💬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/wissam-douskary/)
