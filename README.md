@@ -19,6 +19,9 @@ I’m a passionate Full Stack Web Developer with expertise in both front-end and
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=WissamDouskary&theme=radical)
 
+## 🎵 Spotify Now 
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
 ## 💬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/wissam-douskary/)
 - [GitHub](https://github.com/WissamDouskary)
