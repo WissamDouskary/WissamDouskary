@@ -84,18 +84,6 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=WissamDouskary&theme=radical&hide_border=true&background=0D1117">
 </div>
 
-<!-- SPOTIFY LIVE INTEGRATION -->
-<div align="center">
-  <h2>
-    <img src="https://media.tenor.com/WxdrKz5_WqgAAAAi/spotify-music.gif" width="30">
-    Vibing to
-  </h2>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</div>
-
-
 <!-- METRICS DASHBOARD -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WissamDouskary&theme=radical">
