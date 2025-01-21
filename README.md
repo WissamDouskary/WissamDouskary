@@ -1,75 +1,102 @@
-# Hi there, I'm Wissam Douskary! 👨‍💻
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Wissam Douskary's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wissam-douskary/)
-[![GitHub followers](https://img.shields.io/github/followers/WissamDouskary?label=Follow&style=social)](https://github.com/WissamDouskary)
-[![Profile Views](https://komarev.com/ghpvc/?username=WissamDouskary&color=brightgreen&style=flat-square)](https://github.com/WissamDouskary)
-
-> Passionate Full Stack Web Developer crafting robust and scalable applications with a focus on user experience and performance optimization.
-
-## 🚀 What I Do
-
-- 🎯 Specialize in building responsive web applications
-- 💻 Full-stack development with modern technologies
-- 🔄 Continuous learning and staying updated with industry trends
-- 🤝 Collaborate with teams using agile methodologies
-
-## 🛠️ Technical Arsenal
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend Development
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### Development Tools & Platforms
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-## 📈 GitHub Analytics
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WissamDouskary&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WissamDouskary&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100">
 </div>
 
+<!-- Snake animation -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=WissamDouskary&theme=radical" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </div>
 
-### 🏆 GitHub Profile Trophy
+# 🧑‍💻 About Me
 
+```javascript
+const wissam = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "PHP", "HTML", "CSS", "TypeScript", "C"],
+    technologies: {
+        frontEnd: {
+            js: ["Vanilla JS", "TypeScript"],
+            css: ["Bootstrap", "Pure CSS"]
+        },
+        backEnd: {
+            php: ["Laravel", "Pure PHP"],
+            databases: ["MySQL", "PHPMyAdmin"]
+        },
+        devOps: ["GitHub Actions", "Git"],
+        tools: ["VS Code", "Postman", "Jira"]
+    },
+    currentFocus: "Building Scalable Web Applications",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<!-- Animated Skills -->
+<h2 align="center">🚀 Skills & Technologies</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,mysql,c,git,github,vscode&perline=6">
+</p>
+
+<!-- Spotify Now Playing -->
+<h2 align="center">🎵 Now Playing</h2>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem">
+</p>
+
+<!-- Stats with animations -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WissamDouskary&theme=radical" alt="Profile Details">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WissamDouskary&show_icons=true&theme=radical&count_private=true&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WissamDouskary&theme=radical" alt="GitHub Streak">
+</p>
+
+<!-- Language usage animation -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WissamDouskary&theme=radical&row=1&column=6" alt="trophy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WissamDouskary&theme=radical&layout=compact&langs_count=8" alt="Top Languages">
 </div>
 
-### 📊 Contribution Graph
+<!-- 3D Contribution Calendar -->
+<h2 align="center">📅 3D Contribution Calendar</h2>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WissamDouskary&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</div>
+<!-- Animated metrics -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/WissamDouskary?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe/Paris">
+</p>
 
-## 🤝 Let's Connect
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WissamDouskary&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+</p>
 
-I'm always interested in collaborating on exciting projects and connecting with fellow developers!
+<!-- Connect with me -->
+<h2 align="center">🤝 Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wissam-douskary/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+  </a>
+  <a href="https://github.com/WissamDouskary">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wissam-douskary/)
-[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/WissamDouskary)
-
----
-
-### 📫 How to reach me:
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/wissam-douskary/)
-- 🌐 Follow me on [GitHub](https://github.com/WissamDouskary)
-
-<div align="center">
-
-### Show some ❤️ by starring repositories that interest you!
-
-</div>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+</p>
