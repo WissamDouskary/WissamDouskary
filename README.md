@@ -1,138 +1,149 @@
+<!-- ANIMATED HEADER WITH PARTICLES EFFECT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=Welcome%20to%20Wissam's%20Universe&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55">
-
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=800&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Wissam+Douskary;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8C%9F+Creating+Digital+Magic;%F0%9F%9A%80+Building+The+Future)
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Welcome%20to%20Wissam's%20Universe&fontSize=50&fontColor=fff&animation=twinkling&desc=Where%20Innovation%20Meets%20Excellence&stroke=00000000">
 </div>
 
-<!--═══════════════════════════════════════════════════════════════════════════════════-->
+<!-- ANIMATED INTRODUCTION -->
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/github/stars/WissamDouskary?style=for-the-badge&logo=github&color=f75c7e"/>
-    <img src="https://img.shields.io/github/followers/WissamDouskary?style=for-the-badge&logo=github&color=7dc4e4"/>
-    <img src="https://img.shields.io/github/sponsors/WissamDouskary?style=for-the-badge&logo=github&color=f75c7e"/>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3EEDC2&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=150&lines=Hi+👋+I'm+Wissam+Douskary;Full+Stack+Developer+%7C+Code+Artist+%7C+Digital+Innovator;Turning+Coffee+☕+into+Code+since+2020" alt="Typing SVG" />
 </div>
 
-<!--═══════════════════════════════ ABOUT ME ═══════════════════════════════-->
+<!-- DYNAMIC STATUS DISPLAY -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Currently&query=$.status&url=https://dev.to/api/users/WissamDouskary&style=for-the-badge&logo=dev.to&logoColor=white&color=blueviolet">
+  <img src="https://komarev.com/ghpvc/?username=WissamDouskary&style=for-the-badge&color=blueviolet">
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40"> About Me <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="40">
-</h2>
+<!-- ANIMATED WAVES SEPARATOR -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-```js
-// Life.js
-
-class Developer {
-    constructor() {
-        this.name = '✨ Wissam Douskary';
-        this.role = '🚀 Full Stack Developer';
-        this.language_spoken = ['ar_AR', 'en_US', 'fr_FR'];
-        this.current_focus = '🎯 Building Next-Gen Web Apps';
-    }
-
-    sayHi() {
-        console.log('Thanks for visiting my GitHub! Let\'s build something amazing together! 🌟');
-    }
-}
-
-const me = new Developer();
-me.sayHi();
-```
-
-<!--═══════════════════════════════ TECH STACK ═══════════════════════════════-->
+<!-- 3D CONTRIBUTIONS CALENDAR -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <a href="https://github.com/WissamDouskary">
+    <img src="https://raw.githubusercontent.com/WissamDouskary/WissamDouskary/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  </a>
 </div>
 
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,mysql,git,github,vscode,postman&theme=dark&perline=7" />
-</div>
-
-<!--═══════════════════════════════ STATS ═══════════════════════════════-->
+<!-- TECHNOLOGY MATRIX -->
 <div align="center">
   <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 
-    My Contribution Graph
+    <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529c25b52vf8qe7e0pl4&rid=giphy.gif&ct=s" width="40px" height="40px">
+    Technologies & Tools
   </h2>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WissamDouskary&custom_title=Wissam's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&area=true&hide_border=true&radius=8">
+  <img src="https://raw.githubusercontent.com/gist/TheWisePigeon/d876d2efb0c86bff31d7d678e3e240ae/raw/62f11b6b990c5e3ee811abc05e52a38b3fa35953/commit.gif" width="100%">
 </div>
 
-<br>
+<!-- ANIMATED TECH STACK -->
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript">
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript">
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL">
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub">
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git">
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="65" height="65" alt="HTML">
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="65" height="65" alt="CSS">
+      <br>CSS
+    </td>
+  </tr>
+</table>
 
-<!--═══════════════════════════════ ANIMATED STATS ═══════════════════════════════-->
-<p align="center">
-  <a href="https://github.com/WissamDouskary">
-    <img src="https://github-stats-alpha.vercel.app/api?username=WissamDouskary&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<!-- ANIMATED CODE STATISTICS -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+    Code Statistics
+  </h2>
+</div>
+
+<!-- ANIMATED STATS CARDS WITH GRADIENTS -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WissamDouskary&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true">
+  <img width="49%" src="https://streak-stats.demolab.com?user=WissamDouskary&theme=radical&hide_border=true&background=0D1117">
+</div>
+
+<!-- SPOTIFY LIVE INTEGRATION -->
+<div align="center">
+  <h2>
+    <img src="https://media.tenor.com/WxdrKz5_WqgAAAAi/spotify-music.gif" width="30">
+    Vibing to
+  </h2>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/WissamDouskary">
-    <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WissamDouskary&theme=radical">
-    <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WissamDouskary&theme=radical&utcOffset=8">
-  </a>
-</p>
-
-<!--═══════════════════════════════ STREAK STATS ═══════════════════════════════-->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=WissamDouskary&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117">
-</p>
-
-<!--═══════════════════════════════ SNAKE ANIMATION ═══════════════════════════════-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WissamDouskary/WissamDouskary/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WissamDouskary/WissamDouskary/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WissamDouskary/WissamDouskary/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!--═══════════════════════════════ SPOTIFY ═══════════════════════════════-->
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=5&width=1000">
 </div>
 
-<!--═══════════════════════════════ ACHIEVEMENTS ═══════════════════════════════-->
+<!-- SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WissamDouskary&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WissamDouskary/WissamDouskary/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WissamDouskary/WissamDouskary/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WissamDouskary/WissamDouskary/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<!--═══════════════════════════════ METRICS ═══════════════════════════════-->
+<!-- METRICS DASHBOARD -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/WissamDouskary?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WissamDouskary&theme=radical">
 </div>
 
-<!--═══════════════════════════════ SOCIAL MEDIA ═══════════════════════════════-->
+<!-- DYNAMIC QUOTE GENERATOR -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</div>
+
+<!-- ANIMATED CONTACT SECTION -->
 <div align="center">
   <h2>
     <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50">
-    Connect With Me
+    Let's Connect & Build Something Amazing!
   </h2>
-  
   <a href="https://linkedin.com/in/wissam-douskary">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin">
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo">
-  </a>
-  <a href="https://github.com/WissamDouskary">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="email">
   </a>
 </div>
 
-<!--═══════════════════════════════ FOOTER ═══════════════════════════════-->
+<!-- PROFILE TROPHIES -->
 <div align="center">
-  <img height="120" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=100&section=footer">
+  <img src="https://github-profile-trophy.vercel.app/?username=WissamDouskary&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7">
 </div>
 
-<!-- Profile Views Counter -->
+<!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WissamDouskary&style=for-the-badge&color=blueviolet">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=12&section=footer">
+</div>
+
+<!-- VISIT COUNTER -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/WissamDouskary/count.svg">
+</div>
+
+<!-- SUPPORT -->
+<div align="center">
+  <h3>Show Some ❤️ by Starring My Repositories!</h3>
 </div>
