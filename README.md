@@ -14,7 +14,7 @@
 <!-- SIMPLE STATUS DISPLAY -->
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Lives-Lebanon-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Lives-morocco-success?style=flat-square">
   <img src="https://komarev.com/ghpvc/?username=WissamDouskary&style=flat-square&color=blueviolet">
 </div>
 
