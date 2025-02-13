@@ -32,7 +32,7 @@
 <summary>Frontend</summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" />
 </div>
 </details>
 
@@ -40,7 +40,7 @@
 <summary>Backend</summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,mysql,postgresql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,mongodb&theme=dark" />
 </div>
 </details>
 
@@ -48,7 +48,7 @@
 <summary>Tools & DevOps</summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,vscode,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
 </div>
 </details>
 
