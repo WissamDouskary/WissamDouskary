@@ -1,7 +1,7 @@
 <!-- SIMPLE HEADER -->
 <div align="center">
   <h1>Hi there, I'm Wissam Douskary 👋</h1>
-  <h3>Full Stack Developer | Solution Architect | Tech Enthusiast</h3>
+  <h3>Full Stack Developer | Solution Architect | Tech Enthusiast.</h3>
 </div>
 
 <!-- ABOUT ME SECTION -->
