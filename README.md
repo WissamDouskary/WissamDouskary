@@ -1,4 +1,4 @@
-<!-- SIMPLE HEADER -->
+<img width="1000" height="1000" alt="Wissam douskary cv" src="https://github.com/user-attachments/assets/8d398d89-cf54-4677-ba9c-9f23298c9d2c" /><!-- SIMPLE HEADER -->
 <div align="center">
   <h1>Hi there, I'm Wissam Douskary 👋</h1>
   <h3>Full Stack Developer | Solution Architect | Tech Enthusiast.</h3>
@@ -10,6 +10,9 @@
   <p>💻 Currently working on full-stack web applications</p>
   <p>🌱 Always learning and exploring new technologies</p>
 </div>
+
+## CV
+<img width="1000" height="1000" alt="Wissam douskary cv" src="https://github.com/user-attachments/assets/dcb6effe-36f4-4fad-9fcf-801fe0198c46" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wissam-douskary/) 
