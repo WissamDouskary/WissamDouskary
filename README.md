@@ -12,7 +12,7 @@
 </div>
 
 ## Portfolio
-[![Portfolio](https://wissam-portfolio-nine.vercel.app/)
+[[Portfolio](https://wissam-portfolio-nine.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wissam-douskary/) 
