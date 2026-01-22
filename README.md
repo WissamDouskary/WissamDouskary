@@ -11,8 +11,8 @@
   <p>🌱 Always learning and exploring new technologies</p>
 </div>
 
-## CV
-<img width="150" height="150" alt="Wissam douskary cv" src="https://github.com/user-attachments/assets/dcb6effe-36f4-4fad-9fcf-801fe0198c46" />
+## Portfolio
+[![Portfolio](https://wissam-portfolio-nine.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wissam-douskary/) 
